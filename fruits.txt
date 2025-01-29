@@ -2,3 +2,5 @@ apples
 cherries
 bananas
 oranges
+blueberries
+strawberries
